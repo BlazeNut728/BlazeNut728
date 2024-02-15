@@ -48,6 +48,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlazeNut728&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Aryan's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BlazeNut728&theme=elegant)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ---
 
 
